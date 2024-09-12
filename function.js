@@ -1,6 +1,6 @@
 function getFirstElement (arr){
     if (arr) {
-        return arr; 
+        return arr[0]; 
     }
     return null
     
